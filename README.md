@@ -1,1 +1,1 @@
-Testes e estudos sobre Kotlin e suas tecnologias
+Testes e estudos sobre o framework
